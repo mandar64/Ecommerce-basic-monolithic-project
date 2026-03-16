@@ -1,0 +1,13 @@
+ecommerce-app/
+├── pom.xml
+├── src/
+│   ├── main/
+│   │   ├── java/com/devops/ecommerce/
+│   │   │   ├── HelloServlet.java
+│   │   │   ├── ProductServlet.java
+│   │   │   └── DbUtil.java
+│   │   └── webapp/
+│   │       ├── index.jsp
+│   │       ├── products.jsp
+│   │       └── WEB-INF/web.xml
+
